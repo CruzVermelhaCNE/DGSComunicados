@@ -71,7 +71,7 @@ function parseMyAwesomeHtml(html) {
             }
         });
         request.post(
-            options.discord_webhook,
+            configs.discord_webhook,
             { json: { content: 'Novo Comunicado DGS. Nome: ' + comunicado.name + ". Link para o PDF: " + comunicado.pdf } },
             function (error, response, body) {
                 if (!error && response.statusCode == 200) {
