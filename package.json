@@ -1,0 +1,25 @@
+{
+  "name": "dgscomunicados",
+  "version": "1.0.0",
+  "description": "Notificações para novos comunicados da DGS",
+  "main": "parser.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nodemailer": "^6.4.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruzVermelhaCNE/DGSComunicados.git"
+  },
+  "author": "Miguel Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CruzVermelhaCNE/DGSComunicados/issues"
+  },
+  "homepage": "https://github.com/CruzVermelhaCNE/DGSComunicados#readme"
+}
