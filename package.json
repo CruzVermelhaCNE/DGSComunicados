@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CruzVermelhaCNE/DGSComunicados.git"
+    "url": "git+https://github.com/vostpt/DGSComunicados.git"
   },
   "author": "Miguel Santos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CruzVermelhaCNE/DGSComunicados/issues"
+    "url": "https://github.com/vostpt/DGSComunicados/issues"
   },
-  "homepage": "https://github.com/CruzVermelhaCNE/DGSComunicados#readme"
+  "homepage": "https://github.com/vostpt/DGSComunicados#readme"
 }

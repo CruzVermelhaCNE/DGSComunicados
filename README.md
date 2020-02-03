@@ -10,4 +10,4 @@ Fazer Scrapping de [Comunicados e Despachos da Diretora-Geral da Saúde](https:/
 
 ## Em cooperação com
 
-[![VOST Portugal](https://info.vost.pt/wp-content/uploads/2019/08/cropped-TEMPWEBSITE_ELEMENTS_VOSTPTLOGO_w160px-1.png)](https://vost.pt/)
+[![Cruz Vermelha Portuguesa - Coordenação Nacional de Emergência](https://avatars2.githubusercontent.com/u/54844549?s=400&u=ec74491da4d3b043f5a210fe9ef27bf41fcbad40&v=4)](https://cruzvermelha.org.pt)
